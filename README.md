@@ -1,2 +1,2 @@
 # arm_hand_config
-Repo for code and results from Optimal Arm/Hand Configuration Synthesis work.
+Repo for code and results from Unified Manipulation via Optimal Motion Synthesis work.
