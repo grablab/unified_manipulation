@@ -1,2 +1,3 @@
-# arm_hand_config
-Repo for code and results from Unified Manipulation via Optimal Motion Synthesis work.
+# Unified Arm-Hand Manipulation via Optimization-based Motion Synthesis
+
+Repo for motion synthesis code and experiment results from analyzing unified manipulation on arm-hand combination.
