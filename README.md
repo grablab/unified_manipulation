@@ -2,8 +2,6 @@
 
 Repo for motion synthesis code and experiment results from analyzing unified manipulation on arm-hand combinations.
 
-(still under construction!) as of 09/29/2022
-
 ## Aggregated Results from Paper
 
 The aggregated results as shown in the paper for both the KUKA and UR10 arms on all 5 experiment tasks are as follows.
@@ -32,3 +30,48 @@ The results for the 6-DOF UR10 arm with the diffrernt hands on all 5 experiment 
 <img src="https://github.com/grablab/arm_hand_config/blob/main/png/smooth-helical-ur10.gif" width="30%" height="30%"/><img src="https://github.com/grablab/arm_hand_config/blob/main/png/sharp-path-ur10.gif" width="30%" height="30%"/><img src="https://github.com/grablab/arm_hand_config/blob/main/png/cup-pour-ur10.gif" width="30%" height="30%"/>
 <img src="https://github.com/grablab/arm_hand_config/blob/main/png/icra-collide-ur10.gif" width="30%" height="30%"/><img src="https://github.com/grablab/arm_hand_config/blob/main/png/small-movt-ur10.gif" width="30%" height="30%"/>
 </p>
+
+## Task-based Results
+
+The results for each experiment task averaged across the 2 robot arms (KUKA and UR10) are shown here. The alpha weight versions are shown here for brevity.
+
+### (a) __Smooth Helical__ Task
+
+![alt text](https://github.com/grablab/arm_hand_config/blob/main/png/table4.png)
+
+<p align="center">
+<img src="https://github.com/grablab/arm_hand_config/blob/main/png/smooth-helical-kuka.gif" width="40%" height="40%"/><img src="https://github.com/grablab/arm_hand_config/blob/main/png/smooth-helical-ur10.gif" width="40%" height="40%"/>
+</p>
+
+### (b) __Sharp Path__ Task
+
+![alt text](https://github.com/grablab/arm_hand_config/blob/main/png/table5.png)
+
+<p align="center">
+<img src="https://github.com/grablab/arm_hand_config/blob/main/png/sharp-path-kuka.gif" width="40%" height="40%"/><img src="https://github.com/grablab/arm_hand_config/blob/main/png/sharp-path-ur10.gif" width="40%" height="40%"/>
+</p>
+
+### (c) __Cup Pour__ Task
+
+![alt text](https://github.com/grablab/arm_hand_config/blob/main/png/table6.png)
+
+<p align="center">
+<img src="https://github.com/grablab/arm_hand_config/blob/main/png/cup-pour-kuka.gif" width="40%" height="40%"/><img src="https://github.com/grablab/arm_hand_config/blob/main/png/cup-pour-ur10.gif" width="40%" height="40%"/>
+</p>
+
+### (d) __ICRA Collide__ Task
+
+![alt text](https://github.com/grablab/arm_hand_config/blob/main/png/table7.png)
+
+<p align="center">
+<img src="https://github.com/grablab/arm_hand_config/blob/main/png/icra-collide-kuka.gif" width="40%" height="40%"/><img src="https://github.com/grablab/arm_hand_config/blob/main/png/icra-collide-ur10.gif" width="40%" height="40%"/>
+</p>
+
+### (e) __Small Movt__ Task
+
+![alt text](https://github.com/grablab/arm_hand_config/blob/main/png/table8.png)
+
+<p align="center">
+<img src="https://github.com/grablab/arm_hand_config/blob/main/png/small-movt-kuka.gif" width="40%" height="40%"/><img src="https://github.com/grablab/arm_hand_config/blob/main/png/small-movt-ur10.gif" width="40%" height="40%"/>
+</p>
+
