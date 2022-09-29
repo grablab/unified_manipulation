@@ -2,6 +2,8 @@
 
 Repo for motion synthesis code and experiment results from analyzing unified manipulation on arm-hand combinations.
 
+Paper is currently in review! Corresponding email: `v.patel@yale.edu`.
+
 ## Aggregated Results from Paper
 
 The aggregated results as shown in the paper for both the KUKA and UR10 arms on all 5 experiment tasks are as follows.
