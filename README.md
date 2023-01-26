@@ -2,7 +2,7 @@
 
 Repo for motion synthesis code and experiment results from analyzing unified manipulation on arm-hand combinations.
 
-Paper is currently in review! Corresponding email: `v.patel@yale.edu`.
+Paper was accepted to IEEE ICRA 2023! Corresponding email: `v.patel@yale.edu`.
 
 ## Aggregated Results from Paper
 
