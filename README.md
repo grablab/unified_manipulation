@@ -4,6 +4,16 @@ Repo for motion synthesis code and experiment results from analyzing unified man
 
 Paper was accepted to IEEE ICRA 2023! Corresponding email: `v.patel@yale.edu`.
 
+- [Aggregated Results](#aggregated-results-from-paper)
+- [KUKA Arm Videos](#kuka-results)
+- [UR10 Arm Videos](#ur10-results)
+- [Task-based Videos](#task-based-results)
+    - [Smooth Helical Task](#a-smooth-helical-task)
+    - [Sharp Path Task](#b-sharp-path-task)
+    - [Cup Pour Task](#c-cup-pour-task)
+    - [I-C-R-A Collide Task](#d-icra-collide-task)
+    - [Small Movt Task](#e-small-movt-task)
+
 ## Aggregated Results from Paper
 
 The aggregated results as shown in the paper for both the KUKA and UR10 arms on all 5 experiment tasks are as follows.
