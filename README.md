@@ -20,6 +20,11 @@ The aggregated results as shown in the paper for both the KUKA and UR10 arms on 
 
 ![alt text](https://github.com/grablab/arm_hand_config/blob/main/png/table1.png)
 
+Optimization weight versions tested:
+- *Arm-Hand-Config-α* prioritizes object pose accuracy
+- *Arm-Hand-Config-β* prioritizes joint and object motion smoothness
+
+Additional weight versions that prioritize other motion attributes (such as singularity, collision, and joint limit avoidance) were also tested, and those results will be updated here soon!
 
 ## KUKA Results
 
