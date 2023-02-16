@@ -102,3 +102,6 @@ Results from other optimization weight versions tested are below:
 
 ![alt text](https://github.com/grablab/arm_hand_config/blob/main/png/table9.png)
 
+<p align="center">
+<img src="https://github.com/grablab/arm_hand_config/blob/main/png/kuka-sharp-path-gamma.gif" width="32%" height="32%"/><img src="https://github.com/grablab/arm_hand_config/blob/main/png/kuka-sharp-path-delta.gif" width="32%" height="32%"/><img src="https://github.com/grablab/arm_hand_config/blob/main/png/kuka-sharp-path-epsilon.gif" width="32%" height="32%"/>
+</p>
