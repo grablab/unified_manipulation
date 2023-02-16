@@ -13,6 +13,7 @@ Paper was accepted to IEEE ICRA 2023! Corresponding email: `v.patel@yale.edu`.
     - [Cup Pour Task](#c-cup-pour-task)
     - [I-C-R-A Collide Task](#d-icra-collide-task)
     - [Small Movt Task](#e-small-movt-task)
+- [More Weight Versions Results](#more-objective-weight-versions)
 
 ## Aggregated Results from Paper
 
@@ -21,10 +22,10 @@ The aggregated results as shown in the paper for both the KUKA and UR10 arms on 
 ![alt text](https://github.com/grablab/arm_hand_config/blob/main/png/table1.png)
 
 Optimization weight versions tested:
-- *Arm-Hand-Config-α* prioritizes object pose accuracy
-- *Arm-Hand-Config-β* prioritizes joint and object motion smoothness
+- *Arm-Hand-Config α* prioritizes object pose accuracy
+- *Arm-Hand-Config β* prioritizes joint and object motion smoothness
 
-Additional weight versions that prioritize other motion attributes (such as singularity, collision, and joint limit avoidance) were also tested, and those results will be updated here soon!
+Additional weight versions that prioritize other motion attributes were also tested, and those results are [below](#more-objective-weight-versions)!
 
 ## KUKA Results
 
@@ -95,9 +96,9 @@ The results for each experiment task averaged across the 2 robot arms (KUKA and 
 ## More Objective Weight Versions
 
 Results from other optimization weight versions tested are below:
-- *Arm-Hand-Config-γ* prioritizes avoiding singularities and joint limits
-- *Arm-Hand-Config-δ* prioritizes reducing joint torques
-- *Arm-Hand-Config-ε* prioritizes collision avoidance
+- *Arm-Hand-Config γ* prioritizes avoiding singularities and joint limits
+- *Arm-Hand-Config δ* prioritizes reducing joint torques
+- *Arm-Hand-Config ε* prioritizes collision avoidance
 
 ![alt text](https://github.com/grablab/arm_hand_config/blob/main/png/table9.png)
 
