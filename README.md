@@ -92,3 +92,12 @@ The results for each experiment task averaged across the 2 robot arms (KUKA and 
 <img src="https://github.com/grablab/arm_hand_config/blob/main/png/small-movt-kuka.gif" width="40%" height="40%"/><img src="https://github.com/grablab/arm_hand_config/blob/main/png/small-movt-ur10.gif" width="40%" height="40%"/>
 </p>
 
+## More Objective Weight Versions
+
+Results from other optimization weight versions tested are below:
+- *Arm-Hand-Config-γ* prioritizes avoiding singularities and joint limits
+- *Arm-Hand-Config-δ* prioritizes reducing joint torques
+- *Arm-Hand-Config-ε* prioritizes collision avoidance
+
+![alt text](https://github.com/grablab/arm_hand_config/blob/main/png/table9.png)
+
