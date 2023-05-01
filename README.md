@@ -4,6 +4,16 @@ Repo for motion synthesis code and experiment results from analyzing unified man
 
 Paper was accepted to IEEE ICRA 2023! Corresponding email: `v.patel@yale.edu`.
 
+```
+@inproceedings{patel2023unified,
+  title={An Analysis of Unified Manipulation with Robot Arms and Dexterous Hands via Optimization-based Motion Synthesis},
+  author={Patel, Vatsal V and Rakita, Daniel and Dollar, Aaron M},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2023},
+  organization={IEEE}
+}
+```
+
 - [Aggregated Results](#aggregated-results-from-paper)
 - [KUKA Arm Videos](#kuka-results)
 - [UR10 Arm Videos](#ur10-results)
